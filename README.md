@@ -6,3 +6,4 @@ When the calculator is asked to solve, it first starts looking in this array for
 
 When solving nested parentheses, it can solve the types, ((a + b) + (a + b) + (a + b)) and (a(a (a + b))), and also their combination: ((a + b) + (a + b) + (a + b)) / (a(a (a + b)))
 
+![](images/calculator.png)
